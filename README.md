@@ -3,7 +3,9 @@
 
 🌱 I’m currently learning PHP language / Symfony Framework and Javascript language / Vuejs Framework
 
-👯 I’m looking for an internship, or a work-study placement, in order to become a novice Backend Web Developer (https://alexandre-juillard.github.io)
+👯 I’m looking for a work-study placement, in order to become a novice Web Developer (https://alexandre-juillard.github.io)
+
+Current learning : These are technologies I am  watching for myself --> React, Java, Docker. 
 
 Every comments are welcome.
 
