@@ -1,11 +1,11 @@
 ### Hi there 👋
-🔭 I’m currently working on Quizz Project
+🔭 Student at SUPINFO Lyon's school (IONIS group)
 
-🌱 I’m currently learning PHP language / Symfony Framework and Javascript language / Vuejs Framework
+🌱 What I've done : Quizz project with Symfony (php)
 
-👯 I’m looking for a work-study placement, in order to become a novice Web Developer (https://alexandre-juillard.github.io)
+👯 Working at AVEM company (java developer)
 
-Current learning : These are technologies I am  watching for myself --> React, Java, Docker. 
+Current learning : These are technologies I am  watching for myself --> React, Java, Docker, C#, Kotlin.
 
 Every comments are welcome.
 
