@@ -3,6 +3,8 @@
 
 🌱 What I've done : Quizz project with Symfony (php)
 
+Working on : real-time company chat (Mcrsf Teams like) made with : Node.js, Vue.js, Kotlin, MongoDB.
+
 👯 Working at AVEM company (java developer)
 
 Current learning : These are technologies I am  watching for myself --> React, Java, Docker, C#, Kotlin.
