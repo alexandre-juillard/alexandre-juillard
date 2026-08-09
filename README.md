@@ -1,13 +1,11 @@
 ### Hi there 👋
 🔭 Student at SUPINFO Lyon's school (IONIS group)
 
-🌱 What I've done : Quizz project with Symfony (php)
-
-Working on : real-time company chat (Mcrsf Teams like) made with : Node.js, Vue.js, Kotlin, MongoDB.
+🌱 What I've done : Quizz project with Symfony (php) / real-time company chat / cloud storage app
 
 👯 Working at AVEM company (java developer)
 
-Current learning : These are technologies I am  watching for myself --> React, Java, Docker, C#, Kotlin.
+Current learning : These are technologies I am  watching for myself --> Java, Docker, Kotlin.
 
 Every comments are welcome.
 
